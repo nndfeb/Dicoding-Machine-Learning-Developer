@@ -15,7 +15,7 @@ Kurikulum lengkap yang disusun oleh Dicoding bersama IBM dan Google beserta pela
 
 
 # Result
-| **No.** |              **Course**                     | **Date**    |  **Certificate Link**  |
+| **No.** |    **Course**                     | **Date**    |  **Certificate Link**  |
 ----------| --------------------------------------------|-------------|------------------------|
 | 1       | Belajar Machine Learning untuk Pemula       | 08-26-2022  | [click here](https://www.dicoding.com/certificates/1RXYMV90QXVM)|
 | 2       | Belajar Pengembangan Machine Learning       | 09-06-2022  | [click here](https://www.dicoding.com/certificates/MEPJE1Y04X3V)|
